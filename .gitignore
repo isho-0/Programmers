@@ -4,6 +4,16 @@
 *.VC.db
 *.VC.opendb
 
+# Visual Studio Code
+.vscode/
+*.vscode/
+*.vscode/**
+*.vscode/**/**
+*.vscode/**/**/**
+*.vscode/**/**/**/**
+*.vscode/**/**/**/**/**
+*.vscode/**/**/**/**/**/**
+
 # Build results
 Debug/
 Release/
