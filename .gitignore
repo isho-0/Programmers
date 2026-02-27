@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.recipe
+*.lastbuildstate
+
+# IntelliSense
+ipch/
+*.ipch
+
+# Copilot / indexing
+*.db
+*.db-shm
+*.db-wal
+
+# OS
+.DS_Store
+Thumbs.db
